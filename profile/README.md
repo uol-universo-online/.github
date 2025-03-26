@@ -1,6 +1,6 @@
 # UOL Universo Online
 
-Bem-vindo ao repositório oficial do UOL Universo Online no GitHub!
+Bem-vindo a organização oficial do UOL Universo Online no GitHub!
 
 ## Sobre nós
 
